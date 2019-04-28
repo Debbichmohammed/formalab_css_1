@@ -3,7 +3,7 @@
     color: RED ;
 } 
 */
-.parableu
+/*.parableu
 { color: blue ;}
 #parared
 { color: red ;}
@@ -11,3 +11,17 @@
 h1,h2 {
     color: #FF6600;
     }
+
+.bleu{
+    color: blue ;
+}
+p.vert{
+    color: green ;
+}
+*/
+.vt {
+    color: green ;
+}
+.bord{
+    border: 1px solid green ;
+}
